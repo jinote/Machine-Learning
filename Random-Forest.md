@@ -110,3 +110,6 @@ color = 'lightgreen')
 plt.title('Features Importances')
 plt.show()
 ```
+
+Plot random forest feature importances
+- https://www.analyseup.com/learn-python-for-data-science/python-random-forest-feature-importance-plot.html
